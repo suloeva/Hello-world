@@ -17,6 +17,15 @@ public class Lab {
         a.kol();
         a.otr();
         a.avg();
+        a.otrezok();a.Array();
+        a.InitArray();
+        a.minmax();
+        a.copymas();
+        a.Sort();
+        a.summ();
+        a.kol();
+        a.otr();
+        a.avg();
         a.otrezok();
     }
 }
